@@ -1,11 +1,9 @@
 {
   "name": "something-clever",
   "version": "0.0.1",
-  "main": "index.html",
+  "main": "public/index.html",
   "files": [
-    "dist",
-    "main.css",
-    "index.html"
+    "public"
   ],
   "scripts": {
     "build": "wp --mode=production",
